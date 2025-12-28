@@ -1,4 +1,4 @@
-# SkillVault - Time-Based Skill Exchange Platform
+# SkillsVault - Time-Based Skill Exchange Platform
 
 A revolutionary peer-to-peer platform where users exchange skills using **time as currency** instead of money. Teach what you know, learn what you need - all without spending a dime.
 
